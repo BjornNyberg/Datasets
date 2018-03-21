@@ -4,7 +4,7 @@ This github page is a repository of datasets. Please use the following citations
 
 ### Citation
 
-#### Global Shoreline Classification by Ternary Process
+#### Global Shoreline Ternary Process Classification
 Nyberg, B. & Howell, J.A., (2016). Global distribution of modern shallow marine shorelines. 
 Implications for exploration and reservoir analogue studies, Marine and Petroleum Geology, Vo. 71, 2016, Pages 83-104.                    
 
