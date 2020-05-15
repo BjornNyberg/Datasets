@@ -23,4 +23,4 @@ Available at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.791
 #### Global Modern Sedimentary Basins (GMSB)
 Nyberg, B. & Howell, J.A., (2015). Is the present the key to the past? A global characterization of modern sedimentary basins, Geology. Vo. 43 no. 7, p. 643-646. 
 
-Available at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ETH8VN
+Available at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OFQU9J
